@@ -1,0 +1,18 @@
+.Name,
+.Email,
+.Date,
+.Comment {
+  margin-bottom: 25px;
+}
+
+.Email {
+  padding-left: 15px;
+}
+
+.ConfirmText {
+  color: green;
+}
+
+.GetButton {
+  padding-left: 35px;
+}
